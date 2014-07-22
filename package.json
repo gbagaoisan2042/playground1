@@ -1,0 +1,17 @@
+{
+  "name": "playground",
+  "version": "0.1.0",
+  "author": "Gilbert Bagaoisan",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch":  "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-htmlhint": "*",
+    "grunt-cssc": "*",
+    "matchdep": "*"
+  }
+}
